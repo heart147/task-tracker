@@ -59,9 +59,8 @@ For the complete template format, see [SKILL.md](SKILL.md) under "Required instr
 
 ## 🛠 Installation
 
-This Skill is published on GitHub:
-```
-https://github.com/heart147/task-tracker
+```bash
+git clone https://github.com/heart147/task-tracker.git ~/.claude/skills/task-tracker
 ```
 
 ## 📝 Example

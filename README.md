@@ -58,9 +58,8 @@
 
 ## 🛠 安装
 
-此 Skill 已发布到 GitHub:
-```
-https://github.com/heart147/task-tracker
+```bash
+git clone https://github.com/heart147/task-tracker.git ~/.claude/skills/task-tracker
 ```
 
 ## 📝 示例
